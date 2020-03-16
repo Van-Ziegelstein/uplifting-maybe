@@ -1,0 +1,37 @@
+{
+  "name": "uplifting-maybe",
+  "version": "1.0.0",
+  "description": "Simple Maybe Monad with lifter",
+  "main": "lib/Maybe.js",
+  "module": "src/Maybe.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "files": [
+    "src",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Van-Ziegelstein/uplifting-maybe.git"
+  },
+  "keywords": [
+    "maybe",
+    "monad",
+    "lift"
+  ],
+  "author": "Klotz Van Ziegelstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Van-Ziegelstein/uplifting-maybe/issues"
+  },
+  "homepage": "https://github.com/Van-Ziegelstein/uplifting-maybe#readme",
+  "babel": {
+    "presets": ["@babel/preset-env"]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7"
+  }
+}
