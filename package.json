@@ -21,7 +21,7 @@
     "lift"
   ],
   "author": "Klotz Van Ziegelstein",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Van-Ziegelstein/uplifting-maybe/issues"
   },
