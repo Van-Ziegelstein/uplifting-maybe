@@ -1,6 +1,6 @@
 {
   "name": "uplifting-maybe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Maybe Monad with lifter",
   "main": "lib/Maybe.js",
   "module": "src/Maybe.js",
