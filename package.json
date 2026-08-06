@@ -32,8 +32,8 @@
     ]
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11"
+    "@babel/cli": "^8.0.4",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2"
   }
 }
